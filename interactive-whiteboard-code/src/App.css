@@ -1,0 +1,25 @@
+.App {
+    background-color: #f0f2f5;
+}
+
+.vh-100 {
+    min-height: 100vh;
+}
+
+.flex-grow-1 {
+    flex-grow: 1;
+}
+
+.card {
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.08);
+}
+
+canvas {
+    display: block;
+    background-color: white;
+}
+
+/* Optional: Font for code editor */
+.monaco-editor .view-lines {
+    font-family: 'Fira Code', 'Cascadia Code', monospace;
+}

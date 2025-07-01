@@ -1,0 +1,21 @@
+# Frontend (React App)
+/interactive-whiteboard-code/node_modules/
+/interactive-whiteboard-code/build/
+/interactive-whiteboard-code/npm-debug.log*
+/interactive-whiteboard-code/.env.local
+/interactive-whiteboard-code/.env.development.local
+/interactive-whiteboard-code/.env.test.local
+/interactive-whiteboard-code/.env.production.local
+/interactive-whiteboard-code/.vscode/ # VS Code specific settings if you want to ignore them
+
+# Backend (Node.js/Express App)
+/whiteboard-backend/node_modules/
+/whiteboard-backend/npm-debug.log*
+/whiteboard-backend/.env # Important: Ignore your backend .env file!
+
+# Common ignored files (for the root level)
+.DS_Store
+.env # If you have a root .env file as well
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
