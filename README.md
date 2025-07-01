@@ -1,8 +1,4 @@
 # Collaborative Whiteboard & Live Code Editor
-
-![Collaborative Whiteboard & Live Code Editor in action](https://via.placeholder.com/1200x600?text=Collaborative+Whiteboard+%26+Code+Editor+Screenshot)
-*(**Important:** Please replace this placeholder image with an actual screenshot or GIF of your running application! A good visual significantly boosts your README's impact.)*
-
 ## 🚀 Overview
 
 The **Collaborative Whiteboard & Live Code Editor** is a powerful, full-stack web application meticulously engineered to facilitate real-time, interactive collaboration. It's an ideal tool for diverse scenarios like pair programming, technical brainstorming, and dynamic educational sessions. This project uniquely merges a free-form digital whiteboard with a robust live code editor, offering instant output previews—all seamlessly synchronized across multiple users in real-time.
